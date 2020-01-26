@@ -1,10 +1,10 @@
 {
-    "name": "noitran/opendox",
+    "name": "miladnouri/opendox",
     "description": "OpenApi(Swagger) 3.0 package for Lumen 5.5+ and Laravel 5.5+ with REDOC UI and SwaggerUI 3",
     "authors": [
         {
-            "name": "Noitran.Black",
-            "email": "noitran.black@gmail.com"
+            "name": "Milad Nouri",
+            "email": "Milad.nu@gmail.com"
         }
     ],
     "keywords": [
