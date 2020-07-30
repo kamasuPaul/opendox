@@ -32,7 +32,7 @@
         "illuminate/support": "~5.7",
         "illuminate/http": "~5.7",
         "illuminate/console": "~5.7",
-        "laravel/lumen-framework": "~6.0",
+        "laravel/lumen-framework": "~7.0",
         "orchestra/testbench": "~3.4.2|~3.5.0|~3.6.0|~3.7.0"
        
     },
