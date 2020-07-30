@@ -27,7 +27,7 @@ Also package adds route for raw json documentation output, so this package can b
 * Install as composer package
 
 ```bash
-$ composer require noitran/opendox
+$ composer require miladnouri/opendox
 ```
 
 #### Laravel
